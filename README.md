@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Mobile & Web Developer.
+Experinced with C#, Javascript, Python, C++, Java and more.
+Experince using Azure to manage remote services and data storage.
+
 <!--
 **SoaringChris/SoaringChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
