@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Mobile & Web Developer.
-Experinced with C#, Javascript, Python, C++, Java and more.
+Mobile & Web Developer.<br/>
+Experinced with C#, Javascript, Python, C++, Java and more.<br/>
 Experince using Azure to manage remote services and data storage.
 
 <!--
